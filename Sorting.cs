@@ -2,6 +2,7 @@
 using System.Runtime.Remoting.Services;
 
 //code is tested
+//code is in uat
 namespace Sorting
 {
     public class Sorting
