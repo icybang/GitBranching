@@ -9,10 +9,13 @@ using System.Runtime.Remoting.Services;
 
 //Edited by pawan 
 //Added one feature
+//added second feature
 namespace Sorting
 {
     public class Sorting
     {
+    public void demoFun(){
+    }
         public int[] selectionSort(int[] arr)
         {
             int temp = 0;   // for swapping logic
