@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Remoting.Services;
 
-//Changes pn line 2
+//Changes pn line 2 by featureone
 
 //change done by pawan
 
@@ -15,6 +15,8 @@ namespace Sorting
     public class Sorting
     {
     public void demoFun(){
+    }
+    public void demoFun2(){
     }
         public int[] selectionSort(int[] arr)
         {
