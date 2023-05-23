@@ -14,7 +14,7 @@ namespace Sorting
 {
     public class Sorting
     {
-    public void demoFun(){
+    public void demoFun1(){
     }
     public void demoFun2(){
     }
