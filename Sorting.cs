@@ -16,6 +16,8 @@ namespace Sorting
     {
     public void demoFun(){
     }
+    public void demoFun2(){
+    }
         public int[] selectionSort(int[] arr)
         {
             int temp = 0;   // for swapping logic
